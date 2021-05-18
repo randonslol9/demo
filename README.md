@@ -5,3 +5,4 @@ Nova linha de modificação
 
 - Tradução do Texto: Felipe Tavares
 - Desenvolvimento: Felipe Tavares
+Ass.
